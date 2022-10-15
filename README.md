@@ -1,2 +1,2 @@
 # JSPongClone
-## WebDevSiplified JS Tutorial
+## WebDevSimplified JS Tutorial
